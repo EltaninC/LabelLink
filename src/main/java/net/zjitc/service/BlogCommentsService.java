@@ -10,7 +10,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
-* @author OchiaMalu
+* @author EltaninC
 * @description 针对表【blog_comments】的数据库操作Service
 * @createDate 2023-06-08 12:44:45
 */

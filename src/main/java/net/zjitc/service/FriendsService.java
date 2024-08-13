@@ -12,7 +12,7 @@ import java.util.Set;
 /**
  * 好友服务
  *
- * @author OchiaMalu
+ * @author EltaninC
  * @description 针对表【friends(好友申请管理表)】的数据库操作Service
  * @createDate 2023-06-18 14:10:45
  * @date 2024/01/25

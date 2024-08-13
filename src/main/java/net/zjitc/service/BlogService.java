@@ -9,7 +9,7 @@ import net.zjitc.model.request.BlogUpdateRequest;
 import net.zjitc.model.vo.BlogVO;
 
 /**
-* @author OchiaMalu
+* @author EltaninC
 * @description 针对表【blog】的数据库操作Service
 * @createDate 2023-06-03 15:54:34
 */

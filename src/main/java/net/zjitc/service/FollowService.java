@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 跟随服务
  *
- * @author OchiaMalu
+ * @author EltaninC
  * @description 针对表【follow】的数据库操作Service
  * @createDate 2023-06-11 13:02:31
  * @date 2024/01/25
